@@ -1,1 +1,2 @@
 Lecturer : Amirhossein Esmaeilzadeh
+Course Name: Git Professional Training
